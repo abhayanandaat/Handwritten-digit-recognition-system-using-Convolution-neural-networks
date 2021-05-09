@@ -60,8 +60,10 @@ You can also find the presentation of the project of my team in the files. Its b
 
 ## Future work:
 
-Will continue to modify this project.
+1. Will continue to modify this project.
 
-Will try to look into the front-end version of this project so that it can be more fancy to play with.
-Also will try to work on multiple digit recognition and also the detection of letters in the English Alphabet.
-Also will create an Android app which would work will all the mentioned things above.
+2. Will try to look into the front-end version of this project so that it can be more fancy to play with.
+
+3. Also will try to work on multiple digit recognition and also the detection of letters in the English Alphabet.
+
+4. Also will create an Android app which would work will all the mentioned things above.
